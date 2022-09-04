@@ -2,7 +2,7 @@
 
 ### Acerca de mi
 
-Me llamo José Luis y tengo 21 años, soy estudiante del Instituto Politécnico Nacional de la carrera de Ingeniería en computación. 🖥️
+Me llamo José Luis y tengo 22 años, soy estudiante del Instituto Politécnico Nacional de la carrera de Ingeniería en computación. 🖥️
 Actualmente continuo estudiando, pero en mis tiempos libres me encanta aprender sobre programación web.
 
 ## Mis Skills
