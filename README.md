@@ -3,7 +3,6 @@
 ### Acerca de mi
 
 Me llamo José Luis y tengo 23 años, soy estudiante egresado del Instituto Politécnico Nacional de la carrera de Ingeniería en computación. 🖥️
-Actualmente continuo estudiando, pero en mis tiempos libres me encanta aprender sobre programación web.
 
 ## Mis Skills
 
