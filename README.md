@@ -4,6 +4,7 @@
 
 Me llamo José Luis y tengo 23 años, soy estudiante egresado del Instituto Politécnico Nacional de la carrera de Ingeniería en computación. 🖥️
 
+Me considero una persona perfeccionista y dedicada al desarrollo de software, tambien soy autodidacta y en general me encanta aprender cosas nuevas todos los dias.
 ## Mis Skills
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=FFF&labelColor=000" alt="React" />
